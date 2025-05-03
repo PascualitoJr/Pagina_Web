@@ -4,7 +4,6 @@ https://pycore.vercel.app
 
 - Federico Castillo Menegotto
 - Juan Matias Diaz
-- Santiago Lopez
 
 ## Presentacion
 - La pagina web va dirigida principalmente a empresas que buscan desarrollar aplicaciones para alcanzar sus objetivos.
